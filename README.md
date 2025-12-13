@@ -7,21 +7,11 @@ Sou curiosa, organizada e gosto de transformar dados em informação útil. Tamb
 
 🔎 O que estou estudando agora
 
-Python para análise de dados
-
-SQL para consultas e manipulação de dados
-
-Excel e Power BI
-
 Fundamentos de Cloud (AWS Practitioner – cursando)
-
-Estatística básica
-
-Git/GitHub
 
 🛠️ Tecnologias & Ferramentas
 
-Linguagens: Python, SQL, Java (básico), JavaScript, PHP, Node.js
+Linguagens: Python, SQL, Java, JavaScript, PHP, Node.js
 
 Dados: Excel (avançado), Power BI (avançado)
 
@@ -66,8 +56,6 @@ Projeto de microblog com back-end e front-end integrados, que demonstra capacida
 Projeto pessoal focado em boas práticas de código, organização e estrutura leve — mostra que você valoriza clareza, simplicidade e manutenibilidade no desenvolvimento.
 
 📬 Onde me encontrar
-LinkedIn: linkedin.com/in/maria-eduarda-sousa-183011353
-
 LinkedIn: linkedin.com/in/maria-eduarda-sousa-183011353
 
 E-mail: mariaeduardasousa804@gmail.com
