@@ -54,6 +54,8 @@ Projeto de microblog com back-end e front-end integrados, explorando construçã
 🔹 **Simplicity**  
 Projeto pessoal focado em boas práticas de código, organização e estrutura de projetos.
 
+🔹 **Marirack**  
+Projeto de site para profissional de extensão de cílios, feito com foco em portfólio e experiência em front-end.
 
 📬 Onde me encontrar
 - LinkedIn: https://www.linkedin.com/in/maria-eduarda-sousa-183011353  
