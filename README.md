@@ -1,62 +1,54 @@
-# Olá, eu sou a Maria Eduarda! 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Maria%20Eduarda%20&fontSize=60&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Maria%20Eduarda&fontSize=70" />
-</p>
-
-### 👩‍💻 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia, com foco especial em **Back-end**. Adoro transformar dados em informações úteis e estou sempre em busca de novos desafios técnicos.
-
-- 🔭 Atualmente focada em: **Python, SQL, Java e AWS**.
-- 🌱 Estudando para a certificação: **AWS Cloud Practitioner**.
-- 🔍 Interesses: Desenvolvimento Web, Dados e Cloud Computing.
-
----
-
-### 🛠 Tecnologias & Ferramentas
-
-**Linguagens & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,js,html,css,mysql" />
-</p>
-
-**Dados & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-**Ferramentas**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-</p>
+<div align="center">
+  <h1>Olá! Eu sou a Maria </h1>
+  <p><b>Back-end Developer | Data Enthusiast | AWS Student</b></p>
+  
+  <a href="https://www.linkedin.com/in/maria-eduarda-sousa-183011353">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mariaeduardasousa804@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+### 🌷 Sobre Mim
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonada por resolver problemas no back-end e organizar dados. Atualmente, meu foco é aprender Cloud com AWS e Java. ✨
+
+- ☁️ **Estudando:** AWS Cloud Practitioner.
+- 🐍 **Linguagens:** Python, Java, PHP e Node.js.
+- 📊 **Dados:** Expert em Excel e Power BI.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🛠️ Meu Kit de Ferramentas
 
-* **🍸 Bartender** - Sistema em PHP/MySQL com autenticação para gestão de portfólio.
-* **💻 Microblog_Maria** - Aplicação Full-stack explorando integração de dados.
-* **👁️ Marirack** - Landing page profissional para serviços de extensão de cílios.
-* **📚 AulasPHP / Simplicity** - Repositórios focados em lógica e boas práticas.
-
----
-
-### 📫 Vamos nos conectar?
+**Linguagens & Back-end**
 <p align="left">
-<a href="https://www.linkedin.com/in/maria-eduarda-sousa-183011353" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:mariaeduardasousa804@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,mysql,postgres,aws&theme=light" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
+**Data & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+
+---
+
+
+
+### 📂Projetos em Destaque
+
+| Projeto | Descrição | Techs |
+| :--- | :--- | :--- |
+| **🍸 Bartender** | Portfólio com login e contato seguro. | `PHP` `MySQL` `Node.js` |
+| **📱 Microblog** | Aplicação Full-stack completa. | `Node.js` `JS` |
+| **✨ Marirack** | Landing Page estética para estética. | `HTML` `CSS` `Node.js` |
+| **🧪 Simplicity** | Estudos de arquitetura de código. | `PHP` `MySQL` `Node.js` |
+
