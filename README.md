@@ -50,5 +50,5 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 | **🍸 Bartender** | Portfólio com login e contato seguro. | `PHP` `MySQL` `Node.js` |
 | **📱 Microblog** | Aplicação Full-stack completa. | `Node.js` `JS` |
 | **✨ Marirack** | Landing Page estética para estética. | `HTML` `CSS` `Node.js` |
-| **🧪 Simplicity** | Estudos de arquitetura de código. | `PHP` `MySQL` `Node.js` |
+| **🧪 Simplicity** | Estudos de arquitetura de código. | `Node.js` |
 
