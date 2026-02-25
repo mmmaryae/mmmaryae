@@ -1,62 +1,62 @@
-👋 Olá! Eu sou a Maria Eduarda
+# Olá, eu sou a Maria Eduarda! 👋 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia, com interesse especial na área de **back-end **.
-Atualmente estudo **Python, SQL, Java e AWS**, além de desenvolver projetos pessoais e acadêmicos para evoluir minhas habilidades técnicas.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Maria%20Eduarda&fontSize=70" />
+</p>
 
-Sou curiosa, organizada e gosto de transformar dados em informação útil. Também tenho interesse em **desenvolvimento web** e já tive contato com linguagens como **Java, JavaScript, PHP e Node.js** em cursos e projetos.
+### 👩‍💻 Sobre Mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia, com foco especial em **Back-end**. Adoro transformar dados em informações úteis e estou sempre em busca de novos desafios técnicos.
 
-
-🔎 O que estou estudando atualmente
-- Fundamentos de Cloud (AWS Practitioner – cursando)
-
-🛠️ Tecnologias & Ferramentas
-
-**Linguagens:**  
-Python, SQL, Java, JavaScript, PHP, Node.js  
-
-**Dados:**  
-Excel (avançado), Power BI (avançado)  
-
-**Desenvolvimento Web:**  
-HTML5, CSS3  
-
-**Ferramentas:**  
-Git, GitHub, Figma  
-
-**Cloud:**  
-AWS (estudos iniciais)
+- 🔭 Atualmente focada em: **Python, SQL, Java e AWS**.
+- 🌱 Estudando para a certificação: **AWS Cloud Practitioner**.
+- 🔍 Interesses: Desenvolvimento Web, Dados e Cloud Computing.
 
 ---
 
-📚 Formação & Cursos
-- Análise e Desenvolvimento de Sistemas – Cruzeiro do Sul (cursando)
-- Excel Básico e Avançado – SENAC
-- Dashboards em Excel – SENAC
-- Power BI – SENAC / SENAI
-- Assistente Financeiro – SENAC
-- Java – SENAI / FIAP / Alura
-- Lógica de Programação – SENAC
-- Python – Curso em Vídeo
-- Programação Web – SENAC
+### 🛠 Tecnologias & Ferramentas
 
-🚀 Projetos em Destaque
+**Linguagens & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,js,html,css,mysql" />
+</p>
 
-🔹 **Bartender** — *Projeto pessoal*  
-Projeto desenvolvido em **PHP e MySQL**, com sistema de **login de usuários** e **formulário de contato protegido por autenticação**.  
-O site é voltado ao portfólio do **Bartender’s Group**, permitindo que apenas usuários logados enviem mensagens diretamente para o e-mail do bartender.
+**Dados & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
-🔹 **AulasPHP**  
-Repositório com exercícios e pequenos projetos em PHP, focados em lógica de programação, manipulação de dados e fundamentos de backend.
+**Ferramentas**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
 
-🔹 **Microblog_Maria**  
-Projeto de microblog com back-end e front-end integrados, explorando construção de aplicações completas, gerenciamento de dados e interface de usuário.
+---
 
-🔹 **Simplicity**  
-Projeto pessoal focado em boas práticas de código, organização e estrutura de projetos.
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
-🔹 **Marirack**  
-Projeto de site para profissional de extensão de cílios, feito com foco em portfólio e experiência em front-end.
+---
 
-📬 Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/maria-eduarda-sousa-183011353  
-- E-mail: mariaeduardasousa804@gmail.com
+### 🚀 Projetos em Destaque
+
+* **🍸 Bartender** - Sistema em PHP/MySQL com autenticação para gestão de portfólio.
+* **💻 Microblog_Maria** - Aplicação Full-stack explorando integração de dados.
+* **👁️ Marirack** - Landing page profissional para serviços de extensão de cílios.
+* **📚 AulasPHP / Simplicity** - Repositórios focados em lógica e boas práticas.
+
+---
+
+### 📫 Vamos nos conectar?
+<p align="left">
+<a href="https://www.linkedin.com/in/maria-eduarda-sousa-183011353" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:mariaeduardasousa804@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Perfil%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
