@@ -47,6 +47,7 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
+| **👷🏽Capacete** |Detectar equipamento de EPI em tempo real. | `YOLOV8``Python`  |
 | **🍸 Bartender** | Portfólio com login e contato seguro. | `PHP` `MySQL` `Node.js` |
 | **📱 Microblog** | Aplicação Full-stack completa. | `Node.js` `JS` |
 | **✨ Marirack** | Landing Page estética para estética. | `HTML` `CSS` `Node.js` |
