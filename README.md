@@ -25,7 +25,6 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 ---
 
 ### 🛠️ Meu Kit de Ferramentas
-### 🛠️ Meu Kit de Ferramentas
 
 **Linguagens & Back-end**
 <p align="left">
@@ -46,9 +45,9 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 
 **Data & Design**
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" alt="Microsoft Excel"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" alt="Power BI"/>
 </p>
 ---
 
