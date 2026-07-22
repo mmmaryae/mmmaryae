@@ -41,8 +41,7 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 **Automação & IA**
 <p align="left">
   <img src="https://cdn.simpleicons.org/n8n" width="40"/>
-  <img src="https://img.shields.io/badge/Make-6D5DF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+  <img src="https://cdn.simpleicons.org/make" width="40"/>
 </p>
 
 **Data & Design**
