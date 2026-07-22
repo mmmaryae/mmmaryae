@@ -44,10 +44,11 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 </p>
 
 **Data & Design**
+**Data & Design**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" alt="Microsoft Excel"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2019_present.svg" width="40" alt="Microsoft Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" alt="Power BI"/>
 </p>
 ---
 
