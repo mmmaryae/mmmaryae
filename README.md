@@ -29,7 +29,7 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 
 **Linguagens & Back-end**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,mysql,postgres,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,n8n,max,nodejs,mysql,postgres,aws&theme=light" />
 </p>
 
 **Data & Design**
@@ -48,8 +48,9 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonad
 | Projeto | Descrição | Techs |
 | :--- | :--- | :--- |
 | **👷🏽Capacete** |Detectar equipamento de EPI em tempo real. | `YOLOV8` `Python`  |
+| **💊 Tomei AI** |Te ajuda a lembrar de tomar suas vitaminas | `Java` `API Gemini` `N8N` `HTML` `CSS`   |
 | **🍸 Bartender** | Portfólio com login e contato seguro. | `PHP` `MySQL` `Node.js` |
 | **📱 Microblog** | Aplicação Full-stack completa. | `Node.js` `JS` |
-| **✨ Marirack** | Landing Page estética para estética. | `HTML` `CSS` `Node.js` |
-| **🧪 Simplicity** | Estudos de arquitetura de código. | `Node.js` |
+| **✨ Marirack** | Landing Page para estética. | `HTML` `CSS` `Node.js` |
+| **⚜️Escoteiros** | Site do 71º Grupo de Escoteiros Minuano | `PHP` `MySQL``HTML` `CSS` `Node.js` |
 
