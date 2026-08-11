@@ -20,7 +20,7 @@
 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou apaixonada por resolver problemas no back-end e organizar dados. Atualmente, meu foco é aprender Cloud com AWS e Java. ✨
 
 - 🐍 **Linguagens:** Python, Java, PHP e Node.js.
-- 📊 **Dados:** Expert em Excel e Power BI.
+- 📊 **Dados:** Excel, Power BI e Tableu.
 
 ---
 
