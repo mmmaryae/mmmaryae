@@ -6,7 +6,7 @@
   <h1>Olá! Eu sou a Maria </h1>
   <p><b>Back-end Developer | Data Enthusiast | AWS Student</b></p>
   
-  <a href="https://www.linkedin.com/in/maria-eduarda-sousa-183011353">
+  <a href="https://www.linkedin.com/in/maria-eduarda-melo-183011353/">
     <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mariaeduardasousa804@gmail.com">
